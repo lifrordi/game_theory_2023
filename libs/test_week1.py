@@ -1,5 +1,4 @@
 import libs.week1 as week1
-#import week1
 import numpy as np
 import pytest
 
